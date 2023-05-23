@@ -8,7 +8,7 @@
 <p align="center">Seja redirecionado à página do 
 <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/102911341/240341241-d1b888a3-7b0b-4bfb-912e-73863807633f.png" target="_blank">projeto</a></p>
 
-<p> <h2 align="center">Criando um Wireframe com Design Systemh2></p>
+<p> <h2 align="center">Criando um Wireframe com Design System </h2></p>
 
 ## Descrição do projeto 
 
